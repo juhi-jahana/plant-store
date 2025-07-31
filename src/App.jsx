@@ -17,6 +17,7 @@ const App = () => {
           <li> Home</li>
           <li> Products</li>
           <li>  Contact</li>
+          <li>About</li>
         </ul>
         </div>  
       </nav>
